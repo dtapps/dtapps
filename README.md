@@ -11,10 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Statistics
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=dtapps&show_icons=true&count_private=true&hide_title=true)](https://github.com/dtapps)
+[![Stats](https://github-readme-stats.vercel.app/api?username=dtapps&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/dtapps)
 
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dtapps&langs_count=8&layout=compact&count_private=true&hide_title=true)](https://github.com/dtapps)
-
-## Statistics
-
-[![cch123's github stats](https://github-readme-stats.vercel.app/api?username=dtapps)](https://github.com/dtapps)
